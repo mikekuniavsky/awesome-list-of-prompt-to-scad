@@ -16,6 +16,7 @@
 * Zoo: https://zoo.dev/zookeeper
 * CADscribe: https://cadscribelabs.com/
 * nething: https://nething.xyz/
+* MecAgent: https://mecagent.com/
 ## Minor commercial
 * Node to Talk plugin for Blender nodes: https://superhivemarket.com/products/node-to-talk
 ## Major commercial platforms (all assistants📎, rather than de novo prompt-to-CAD creation)
@@ -24,6 +25,7 @@
 * CATIA companions: https://www.3ds.com/newsroom/press-releases/dassault-systemes-unveils-new-way-working-industry-ai-powered-virtual-companions
 * Ant for Rhino: https://rhino-ant.ai/
 * Jarvis Onshape MCP: https://github.com/ReshefElisha/jarvis-onshape-mcp
+* NX Design Copilot: https://www.siemens.com/en-us/products/designcenter/nx-cad-software/ai/
 
 
 My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
