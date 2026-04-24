@@ -10,7 +10,6 @@
 * Prompt2CAD 3: https://github.com/atifabid/Prompt2CAD-LLM-builds-in-solidworks
 * Torrify: https://github.com/caseyhartnett/Torrify
 * talkCAD: https://github.com/outerreaches/talkcad
-* Jarvis Onshape MCP: https://github.com/ReshefElisha/jarvis-onshape-mcp
 ## Startup
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/
@@ -24,5 +23,7 @@
 * Adam AI for cleaning feature trees: https://www.onshape.com/en/blog/adam-ai-app-store-cad-co-pilot (same team as CADAM)
 * CATIA companions: https://www.3ds.com/newsroom/press-releases/dassault-systemes-unveils-new-way-working-industry-ai-powered-virtual-companions
 * Ant for Rhino: https://rhino-ant.ai/
+* Jarvis Onshape MCP: https://github.com/ReshefElisha/jarvis-onshape-mcp
+
 
 My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
