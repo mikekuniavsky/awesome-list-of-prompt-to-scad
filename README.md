@@ -10,6 +10,7 @@
 * Prompt2CAD 3: https://github.com/atifabid/Prompt2CAD-LLM-builds-in-solidworks
 * Torrify: https://github.com/caseyhartnett/Torrify
 * talkCAD: https://github.com/outerreaches/talkcad
+* Jarvis Onshape MCP: https://github.com/ReshefElisha/jarvis-onshape-mcp
 ## Startup
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/
