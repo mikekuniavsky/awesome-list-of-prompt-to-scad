@@ -26,6 +26,8 @@
 * Ant for Rhino: https://rhino-ant.ai/
 * Jarvis Onshape MCP: https://github.com/ReshefElisha/jarvis-onshape-mcp
 * NX Design Copilot: https://www.siemens.com/en-us/products/designcenter/nx-cad-software/ai/
-
+* Claude for Creative work SketchUp: https://claude.ai/directory/connectors/sketchup
+* Claude for Creative work Autodesk Fusion: https://claude.ai/directory/connectors/ant.dir.gh.autodesk.fusion-mcp
+* Claude for Creative work Blender: https://www.blender.org/lab/mcp-server/ 
 
 My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
