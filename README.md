@@ -17,6 +17,7 @@
 * CADscribe: https://cadscribelabs.com/
 * nething: https://nething.xyz/
 * MecAgent: https://mecagent.com/
+* Forgecad https://forgecad.io/
 ## Minor commercial
 * Node to Talk plugin for Blender nodes: https://superhivemarket.com/products/node-to-talk
 ## Major commercial platforms (all assistants📎, rather than de novo prompt-to-CAD creation)
