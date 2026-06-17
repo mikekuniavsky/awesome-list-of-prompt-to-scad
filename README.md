@@ -4,6 +4,9 @@
 ## Generative Parametric CAD Benchmarks
 * MUSE: https://dong7313.github.io/muse-benchmark/leaderboard.html (Paper: https://arxiv.org/abs/2605.28579)
 * P3D: https://spatiaos.github.io/projects/P3D-Bench/ (Paper: https://arxiv.org/abs/2606.11152)
+* BenchCAD: https://benchcad.github.io/BenchCAD_webpage/ (Paper: https://arxiv.org/abs/2605.10865)
+* Text2CAD-Bench: https://arxiv.org/abs/2605.18430
+* UniCAD: https://arxiv.org/abs/2606.05058
 ## Open Source
 * CADAM: github.com/Adam-CAD/CADAM
 * text-to-cad: https://github.com/earthtojake/text-to-cad
