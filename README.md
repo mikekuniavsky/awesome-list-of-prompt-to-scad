@@ -17,7 +17,7 @@
 * Torrify: https://github.com/caseyhartnett/Torrify
 * talkCAD: https://github.com/outerreaches/talkcad
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
-## Startup
+## Startups working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/
 * Zoo: https://zoo.dev/zookeeper
@@ -26,9 +26,10 @@
 * MecAgent: https://mecagent.com/
 * Skyveil AI: https://skyveil.ai/
 * Leo: https://www.getleo.ai/
-## Minor commercial
+* Orca CAD: https://orca-cad.com/
+## Plugins
 * Node to Talk plugin for Blender nodes: https://superhivemarket.com/products/node-to-talk
-## Major commercial platforms (all assistants📎, rather than de novo prompt-to-CAD creation)
+## AI workflow automation assistants📎 for existing tools
 * Autodesk Assistant: https://www.autodesk.com/solutions/autodesk-ai/autodesk-assistant
 * Adam AI for cleaning feature trees: https://www.onshape.com/en/blog/adam-ai-app-store-cad-co-pilot (same team as CADAM)
 * CATIA companions: https://www.3ds.com/newsroom/press-releases/dassault-systemes-unveils-new-way-working-industry-ai-powered-virtual-companions
