@@ -19,14 +19,17 @@
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
 ## Startups working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
-* Vibe CAD: https://app.cadxstudio.in/
+* Vibe CAD: https://app.cadxstudio.in/ [dead]
 * Zoo: https://zoo.dev/zookeeper
 * CADscribe: https://cadscribelabs.com/
 * nething: https://nething.xyz/
 * MecAgent: https://mecagent.com/
 * Skyveil AI: https://skyveil.ai/
 * Leo: https://www.getleo.ai/
-* Orca CAD: https://orca-cad.com/
+* Blueprint: https://www.blueprint.am/
+## Companies that use AI generated CAD as a core part of their product tech stack
+* Arcade: https://www.arcade.ai/ (housewares)
+* Orca CAD: https://orca-cad.com/ (flat pack furniture)
 ## Plugins
 * Node to Talk plugin for Blender nodes: https://superhivemarket.com/products/node-to-talk
 ## AI workflow automation assistants📎 for existing tools
