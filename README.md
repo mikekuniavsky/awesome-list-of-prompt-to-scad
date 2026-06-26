@@ -17,6 +17,7 @@
 * Torrify: https://github.com/caseyhartnett/Torrify
 * talkCAD: https://github.com/outerreaches/talkcad
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
+* NURBSgen: https://github.com/SadilKhan/NURBGen
 ## Startups working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
