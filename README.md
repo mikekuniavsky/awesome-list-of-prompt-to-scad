@@ -29,6 +29,7 @@
 * Leo: https://www.getleo.ai/
 * Blueprint: https://www.blueprint.am/
 * CadXStudio: https://cadxstudio.in/
+* ADAM: https://adam.new/
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
 * Orca CAD: https://orca-cad.com/ (flat pack furniture)
